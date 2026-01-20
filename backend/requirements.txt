@@ -1,0 +1,6 @@
+
+fastapi
+uvicorn
+pydantic
+# libtorrent is usually installed via apt on Colab:
+# !apt install python3-libtorrent

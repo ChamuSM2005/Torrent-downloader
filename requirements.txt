@@ -1,0 +1,8 @@
+
+fastapi
+uvicorn
+jinja2
+pydantic
+requests
+beautifulsoup4
+# Note: libtorrent is a system package in Colab, usually pre-installed or via apt

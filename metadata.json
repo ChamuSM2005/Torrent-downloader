@@ -1,0 +1,5 @@
+{
+  "name": "Cloud Torrent Search & Drive Engine",
+  "description": "A full-stack torrent search engine and downloader. Features integrated search, seeder sorting, and direct-to-Google-Drive downloading via libtorrent on Colab.",
+  "requestFramePermissions": []
+}
